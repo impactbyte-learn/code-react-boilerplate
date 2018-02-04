@@ -12,7 +12,7 @@ export default (req, res) => {
 			<!doctype html>
 			<html>
 				<head>
-					<title>My Universal App</title>
+					<title>Code React Boilerplate</title>
 				</head>
 				<body>
 					<div id='app'>${renderToString(
@@ -31,7 +31,7 @@ export default (req, res) => {
 			<!doctype html>
 			<html>
 				<head>
-					<title>My Universal App</title>
+					<title>Code React Boilerplate</title>
 					<link rel='stylesheet' href='bundle.css'>
 				</head>
 				<body>
